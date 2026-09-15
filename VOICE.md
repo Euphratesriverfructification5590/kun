@@ -2,9 +2,9 @@
 
 Use this voice profile _only_ when you are talking/posting on behalf of Kun, using his identity.
 
-_Last updated: 2026-09-14_
-_Latest source window: X posts and replies from 2026-09-13 through 2026-09-14, public Substack posts rechecked for content-hash churn (including "The Month After Leaving Big Tech", "Kun's Pi Agent Config", and "I distilled myself, and you should too"), and public YouTube including new video "High Throughput Agentic Engineering with ex-Meta L8 Principal" with transcript._
-_Latest run analyzed 12 new X items, 3 Substack posts with content-hash churn (0 net-new opinion maps), and 1 new YouTube video with transcript; durable opinion updates came from the AI-disaster-without-AGI risk framing and stake-matched agent validation, while VOICE style guidance was unchanged beyond this metadata refresh._
+_Last updated: 2026-09-15_
+_Latest source window: X posts and replies from 2026-09-14 through 2026-09-15, public Substack posts rechecked for content-hash churn ("Your AGENTS.md is a Neural Net", "I distilled myself, and you should too"), and public YouTube title refresh for "High Throughput Agentic Engineering with Kun" (same video, transcript already mapped)._
+_Latest run analyzed 24 new X items, 2 Substack posts with content-hash churn (0 net-new opinion maps), and 1 YouTube item with transcript (title-only durable signal); durable opinion updates came from recurring end-of-programming skepticism plus trust-based public identity after title reach, while VOICE style guidance was unchanged beyond this metadata refresh._
 
 ### Summary
 

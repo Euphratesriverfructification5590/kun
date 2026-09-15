@@ -17,7 +17,7 @@ Evidence: https://x.com/kunchenguid/status/1885867478489976954, https://x.com/ku
 
 ### Agentic engineering changes the work rather than eliminating engineering
 
-Kun thinks AI is shifting software work from hand-writing code toward steering, specification, review, orchestration, system design, and product judgment.
+Kun thinks AI is shifting software work from hand-writing code toward steering, specification, review, orchestration, system design, and product judgment, not ending programming the way COBOL and 1980s "anyone can build software" tools were supposed to.
 He expects engineers to learn agentic engineering while still understanding fundamentals well enough to control and evaluate what agents produce.
 He believes AI amplifies competence and judgment: weak taste and weak requirements produce more slop faster, while the residual human job is the subjective feel that agents miss unless asked.
 Because of that structural wall, unsupervised agent factories accumulate work that "does not feel right," so human taste remains required for software meant for humans, and the leverage bottleneck moves toward taste, mission, focus, and quality of thought.
@@ -30,7 +30,7 @@ He thinks transformative technologies show their real productivity effect at sca
 He expects AI to make small, expert teams more capable relative to large organizations when the work can be specified, reviewed, and verified tightly, because the bottleneck shifts from coordinating many humans to directing, checking, and integrating agent work.
 He rejects simple claims that AI alone caused recent tech layoffs, but he does think AI-driven reallocation is real, growing, and likely to keep pressuring engineers to become AI-native.
 When agents can ship more than a person can read, a durable VISION.md or equivalent becomes the triage layer for which ideas fit, and ultrafast models push toward continuous realtime sessions where individuals operate more like CEOs: set mission, grow key agents, and approve long-horizon direction rather than inspecting every change.
-Evidence: https://x.com/kunchenguid/status/2068026853903011938, https://x.com/kunchenguid/status/2089189790881382676
+Evidence: https://x.com/kunchenguid/status/2068026853903011938, https://x.com/kunchenguid/status/2099533194655846425
 
 ### Requirements, tests, and review are the new bottlenecks
 
@@ -355,7 +355,7 @@ Evidence: https://kunchenguid.substack.com/p/zero-to-one-handbook-for-entreprene
 ### AI enables smaller serious companies
 
 Kun expects AI to increase individual leverage enough to make one-person and very small-team companies more viable.
-He does not think every company should rebuild giant SaaS products internally just because agents can write code, and he rejects the bubble claim that everyone will vibe-code their own software: more people will build, including personal thin tools when that is cheaper than adopting someone else's app, but the mainstream remains mostly consumers of software built by others, as with blogs, Instagram, and TikTok.
+He does not think every company should rebuild giant SaaS products internally just because agents can write code, and he rejects the bubble claim that everyone will vibe-code their own software: weekend agent toys impress builders in a bubble, but most regular humans do not even want to talk to an agent, turning toys into useful products remains most of the work where current agents help least, and the mainstream remains mostly consumers of software built by others, as with blogs, Instagram, and TikTok.
 He expects many SaaS tools to remain useful, but with more interactions mediated by agents rather than direct human UI use, and with more software rebuilt as agent tools instead of attention-seeking consumer apps.
 He expects consumer app adoption to concentrate in a smaller number of super-app or agent entry points because users would rather delegate tedious cross-service tasks than maintain hundreds of apps and notifications.
 He thinks future work systems need better shared context, work tracking, memory, cost control, and collaboration models for humans working with many agents.
@@ -417,13 +417,13 @@ Evidence: https://x.com/kunchenguid/status/2041250656644964568, https://x.com/ku
 
 Kun left big tech to build because AI timing, personal runway, family readiness, and desire for new experience aligned.
 He is willing to trade financial expected value for curiosity, learning, growth, and the part of himself that wants to build directly.
-He thinks time outside a company role can reveal what a person actually enjoys, values, and can uniquely offer, because jobs can slowly become identity.
+He thinks time outside a company role can reveal what a person actually enjoys, values, and can uniquely offer, because jobs and titles can slowly become identity, and rebuilding a public identity after leaving that label is hard but possible once the work itself carries recognition.
 He warns people not to blindly copy major career moves because runway, family context, learning goals, opportunity cost, and personal preference differ.
 He advises people to make career moves toward something they want, not merely away from something they dislike.
 He believes autonomy is powerful but dangerous: it enables rapid pivots and direct shipping, while requiring a clear mission to prevent randomization and death by a thousand cuts.
 He believes focus requires dropping work that does not serve the most important goals.
 He has declined major lab and company opportunities after leaving big tech to live that individual-leverage path himself rather than only advise it.
-Evidence: https://www.youtube.com/watch?v=MhaXfrfg4dY, https://x.com/kunchenguid/status/2092699326384640448
+Evidence: https://www.youtube.com/watch?v=MhaXfrfg4dY, https://x.com/kunchenguid/status/2099605005984759820
 
 ### Being effective matters more than being right
 
@@ -445,11 +445,11 @@ He thinks friend graphs and interest graphs should not be collapsed into one eng
 He believes Facebook lost its core social value by optimizing a friend network for scalable time-spent engagement instead of preserving a stable place to check on real friends, while letting Instagram handle interest-based competition.
 He prefers social products that sell user value directly, such as ad removal, over monetization features that make users pay to stand out.
 He prefers explainers that teach one concept at a time rather than combining multiple concepts for audiences with different background knowledge.
-He thinks X remains unusually promising for good original content when product leadership visibly attacks engagement farming, but he also sees cold-start distribution as an unsolved problem for interesting new accounts without a spectacular entrance.
+He thinks X remains unusually promising for good original content when product leadership visibly attacks engagement farming, but cold-start distribution still needs earned trust: borrowed titles or authority can accelerate reach, while durable reputation comes from repeatedly shipping useful things rather than engagement baits or opinions from an unproven voice.
 He wants platform incentive experiments to be long-running and paired with manual scrutiny of the biggest reward recipients, because metric systems can drift toward engagement games even after a good intervention.
 He expects authenticity to matter more as AI-generated content becomes common, and he sees outsourcing one's expressive voice to templated AI as a sign that money or content volume has displaced taste, self-expression, and identity.
 He thinks automated replies that imitate engagement without human thought waste compute and damage the owner's public identity.
-Evidence: https://x.com/kunchenguid/status/2060024945238008179, https://x.com/kunchenguid/status/2068835459682496592
+Evidence: https://x.com/kunchenguid/status/2060024945238008179, https://x.com/kunchenguid/status/2099605005984759820
 
 ### Platforms should compete without suppressing alternatives
 
